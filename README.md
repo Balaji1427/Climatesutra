@@ -1,4 +1,4 @@
-# Vataavaran
+# Climatesutra
 A simple web application that allows users to search for weather information by city name. The app fetches real-time weather data from the OpenWeatherMap API and displays it in an easy-to-read format.
 
 ## Features
@@ -28,12 +28,12 @@ To run this project locally, you will need a basic understanding of web developm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Sachith2716/Vataavaran.git
+   git clone https://github.com/Balaji1427/Climatesutra.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Vataavaran
+   cd Climatesutra
    ```
 
 3. **Open the `index.html` file in your browser**:
@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [sachith uttarwar](mailto:sachithuttarwar23@gmail.com)
+Your Name - [Balaji Changade](mailto:18888vk@gmail.com)
 
-Project Link: [Vataavaran](https://github.com/Sachith2716/Vataavaran)
+Project Link: [Climatesutra](https://github.com/Balaji1427/Climatesutra)
